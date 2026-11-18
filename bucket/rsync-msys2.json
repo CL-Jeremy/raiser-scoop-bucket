@@ -1,5 +1,5 @@
 {
-    "version": "3.5.0-1",
+    "version": "3.5.2-2",
     "description": [
         "Rsync (MSYS2 build, Windows) with all required runtime DLLs (standalone, portable).",
         "See https://mirror.msys2.org/msys/x86_64"
@@ -7,12 +7,12 @@
     "homepage": "https://rsync.samba.org/",
     "license": "GPL-3.0-or-later",
     "url": [
-        "https://mirror.msys2.org/msys/x86_64/rsync-3.5.0-1-x86_64.pkg.tar.zst",
-        "https://mirror.msys2.org/msys/x86_64/libxxhash-0.8.2-1-x86_64.pkg.tar.zst"
+        "https://mirror.msys2.org/msys/x86_64/rsync-3.5.2-2-x86_64.pkg.tar.zst",
+        "https://mirror.msys2.org/msys/x86_64/libxxhash-0.8.4-1-x86_64.pkg.tar.zst"
     ],
     "hash": [
-        "a1129a1b02ee0dbf4b49bcd3da515d343cdc3266d6fbb0e943026e375cb058ea",
-        "eab25c81694da8efae1579bfcdb49f31fcdf4a1b8c0f5496c1cb23ea9064aee6"
+        "e27c183d8af0ed250dc7502ba3b4aebe5c32086c4252fe4f16a4cff328c8e803",
+        "ba784ad117626401cd5d3ec0cf70399f9de72a63755f96c28fa2032303f9c330"
     ],
     "extract_dir": "usr/bin",
     "bin": "rsync.exe",
